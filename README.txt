@@ -1,0 +1,1 @@
+near programm file you need to create file calls *botToken.py* with line: *token="your bot token"*
